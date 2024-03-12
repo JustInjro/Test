@@ -1,0 +1,92 @@
+{
+    "result": 1,
+    "data": [
+      {
+        "id": 1,
+        "name": "Группа 1",
+        "closed": false,
+        "avatar_color": "green",
+        "members_count": 15,
+        "friends": [
+          {"first_name": "Никита", "last_name": "Никитич"}
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Группа 2",
+        "closed": true,
+        "avatar_color": "blue",
+        "members_count": 8
+      },
+      {
+        "id": 3,
+        "name": "Группа 3",
+        "closed": true,
+        "avatar_color": "red",
+        "members_count": 39,
+        "friends": [
+          {"first_name": "Роберт", "last_name": "Смит"},
+          {"first_name": "Боб", "last_name": "Джонсон"}
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Группа 4",
+        "closed": true,
+        "avatar_color": "pink",
+        "members_count": 28,
+        "friends": [
+          {"first_name": "Роберт", "last_name": "Смит"}
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Группа 5",
+        "closed": false,
+        "avatar_color": "red",
+        "members_count": 67,
+        "friends": [
+          {"first_name": "Алиса", "last_name": "Звезда"},
+          {"first_name": "Боб", "last_name": "Джонсон"}
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Группа 6",
+        "closed": false,
+        "avatar_color": "white",
+        "members_count": 4
+      },
+      {
+        "id": 7,
+        "name": "Группа 7",
+        "closed": true,
+        "avatar_color": "blue",
+        "members_count": 17,
+        "friends": [
+          {"first_name": "Боб", "last_name": "Джонсон"}
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Группа 8",
+        "closed": true,
+        "avatar_color": "pink",
+        "members_count": 109
+      },
+      {
+        "id": 9,
+        "name": "Группа 9",
+        "closed": false,
+        "avatar_color": "green",
+        "members_count": 80,
+        "friends": [
+          {"first_name": "Глеб", "last_name": "Бобров"},
+          {"first_name": "Виктор", "last_name": "Святов"},
+          {"first_name": "Алиса", "last_name": "Звезда"},
+          {"first_name": "Никита", "last_name": "Никитич"}
+        ]
+      }
+    ]
+  }
+  
